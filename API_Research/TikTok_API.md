@@ -1,0 +1,3 @@
+#TikTok API Research
+
+The TikTok for Developers documentation provides a brief overview of the api functions. To start integrating with TikTok, create your developer account and register your apps. They have a few development kits like Login Kit, Share Kit, and Green Screen Kit. As of the overview page, they have API references like Display API, Content Posting API, and Research API. Please refer to the [Documentation](https://developers.tiktok.com/doc/overview/) for more information.
