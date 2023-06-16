@@ -1,0 +1,3 @@
+#Facebook Video API Research
+
+The Facebook Video API enables you to publish videos on Pages and Groups. It doesn't support publishing on Users. The API supports both Resumable and Non-Resumable upload protocols, with the recommendation to use the Resumable Upload protocol as it is more versatile and can handle connection interruptions. The process for publishing videos involves choosing an upload protocol, sending a POST request to the targeted Page or Group's /videos edge, and then ending the upload session. Videos are limited to 10GB and 4 hours. Please refer to the [Documentation](https://developers.facebook.com/docs/video-api/guides/publishing/) for more information.
