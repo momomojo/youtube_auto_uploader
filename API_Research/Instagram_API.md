@@ -1,0 +1,3 @@
+#@Instagram API Research
+
+The Instagram Content Publishing API allows you to create new posts on behalf of Instagram Business Users. The API supports publishing photo or video media. To use the API, you need to obtain an access token with the appropriate permissions. The endpoint to create new posts is `POST /v1/media`. Please refer to the [Documentation](https://developers.facebook.com/docs/instagram-api/guides/content-publishing) for more information.
